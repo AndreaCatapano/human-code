@@ -14,7 +14,7 @@ Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita 
 
  - Leggo i fogli 
 
- - Li ordino in base alla sequenza corretta 
+ - Li ordino in base alla sequenza corretta di lettura 
   
    - Se posso scrivire sui fogli
 
@@ -45,10 +45,15 @@ Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita 
   - Finché non terminano i numeri 
     
     - Scansiono ogni foglio in ordine numerico crescente
+
+     - Presto attenzione a scansionare anche il retro
   
 - Altrimenti 
    
    - Scansiono i fogli con l'ordine in cui sono
+
+     - Presto attenzione a scansionare anche il retro
+
      
 - Controllo il documento digitale
   
